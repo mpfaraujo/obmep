@@ -1,6 +1,7 @@
 {
   "name": "salasobmep",
   "version": "0.1.0",
+  "main":"index.tsx",
   "private": true,
   "scripts": {
     "dev": "next dev",
